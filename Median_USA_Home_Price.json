@@ -1,0 +1,54 @@
+{
+  "cities": [
+    {
+      "name": "New York City, NY",
+      "median_home_price": 680000,
+      "median_square_footage": 1100
+    },
+    {
+      "name": "Los Angeles, CA",
+      "median_home_price": 875000,
+      "median_square_footage": 1400
+    },
+    {
+      "name": "Chicago, IL",
+      "median_home_price": 325000,
+      "median_square_footage": 1500
+    },
+    {
+      "name": "Houston, TX",
+      "median_home_price": 260000,
+      "median_square_footage": 1700
+    },
+    {
+      "name": "Phoenix, AZ",
+      "median_home_price": 380000,
+      "median_square_footage": 1800
+    },
+    {
+      "name": "Philadelphia, PA",
+      "median_home_price": 290000,
+      "median_square_footage": 1300
+    },
+    {
+      "name": "San Antonio, TX",
+      "median_home_price": 245000,
+      "median_square_footage": 1600
+    },
+    {
+      "name": "San Diego, CA",
+      "median_home_price": 800000,
+      "median_square_footage": 1200
+    },
+    {
+      "name": "Dallas, TX",
+      "median_home_price": 320000,
+      "median_square_footage": 1800
+    },
+    {
+      "name": "San Jose, CA",
+      "median_home_price": 1250000,
+      "median_square_footage": 1300
+    }
+  ]
+}
